@@ -21,5 +21,4 @@
 
 9. To find Armstrong Number between two given number.
 
-You can watch the video [here](https://www.youtube.com/watch?v=cC_rdSnDFK4)
 
