@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="855b7e61-6911-4f92-a14f-3889f80dd9ec" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/DSA-Bootcamp-Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assignments/01-flow-of-program.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assignments/Untitled-2025-09-05-2123.excalidraw.png" beforeDir="false" afterPath="$PROJECT_DIR$/../01-intro to programming/Intro-of-programming.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-intro to programming/01-flow-of-program.md" beforeDir="false" afterPath="$PROJECT_DIR$/../01-intro to programming/01-flow-of-program.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-intro to programming/intro-to-programming.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "atulcodes-tech"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/atulcodes-tech/DSA-Bootcamp-Java.git",
+    "accountId": "21e0e0af-1204-4723-8a49-83100719eff9"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="38gxfVjtuVKWCy74CXzP3npnRSn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Rebasing main"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="855b7e61-6911-4f92-a14f-3889f80dd9ec" name="Changes" comment="" />
+      <created>1769235120895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769235120895</updated>
+    </task>
+    <servers />
+  </component>
+</project>
