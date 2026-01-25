@@ -22,19 +22,32 @@
 8. Perimeter Of Circle
 
 9. Perimeter Of Equilateral Triangle
-Perimeter Of Parallelogram
-Perimeter Of Rectangle
-Perimeter Of Square
-Perimeter Of Rhombus
-Volume Of Cone Java Program
-Volume Of Prism
-Volume Of Cylinder
-Volume Of Sphere
-Volume Of Pyramid
-Curved Surface Area Of Cylinder
-Total Surface Area Of Cube
-Fibonacci Series In Java Programs
-Subtract the Product and Sum of Digits of an Integer
+
+10. Perimeter Of Parallelogram
+
+11. Perimeter Of Rectangle
+
+12. Perimeter Of Square
+
+13. Perimeter Of Rhombus
+
+14. Volume Of Cone Java Program
+
+15. Volume Of Prism
+
+16. Volume Of Cylinder
+
+17. Volume Of Sphere
+
+18. Volume Of Pyramid
+
+19. Curved Surface Area Of Cylinder
+
+20. Total Surface Area Of Cube
+
+21. Fibonacci Series In Java Programs
+
+22. Subtract the Product and Sum of Digits of an Integer
 Input a number and print all the factors of that number (use loops).
 Take integer inputs till the user enters 0 and print the sum of all numbers (HINT: while loop)
 Take integer inputs till the user enters 0 and print the largest number from all.
