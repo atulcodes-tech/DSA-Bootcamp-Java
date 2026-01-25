@@ -48,20 +48,36 @@
 21. Fibonacci Series In Java Programs
 
 22. Subtract the Product and Sum of Digits of an Integer
-Input a number and print all the factors of that number (use loops).
-Take integer inputs till the user enters 0 and print the sum of all numbers (HINT: while loop)
-Take integer inputs till the user enters 0 and print the largest number from all.
-Addition Of Two Numbers
-Intermediate Java Programs
-Factorial Program In Java
-Calculate Electricity Bill
-Calculate Average Of N Numbers
-Calculate Discount Of Product
-Calculate Distance Between Two Points
-Calculate Commission Percentage
-Power In Java
-Calculate Depreciation of Value
-Calculate Batting Average
+
+23. Input a number and print all the factors of that number (use loops).
+
+24. Take integer inputs till the user enters 0 and print the sum of all numbers (HINT: while loop)
+
+24. Take integer inputs till the user enters 0 and print the largest number from all.
+
+25. Addition Of Two Numbers
+
+
+## Intermediate Java Programs
+
+
+1. Factorial Program In Java
+
+2. Calculate Electricity Bill
+
+3. Calculate Average Of N Numbers
+
+4. Calculate Discount Of Product
+
+5. Calculate Distance Between Two Points
+
+6. Calculate Commission Percentage
+
+7. Power In Java
+
+8. Calculate Depreciation of Value
+
+9. Calculate Batting Average
 Calculate CGPA Java Program
 Compound Interest Java Program
 Calculate Average Marks
