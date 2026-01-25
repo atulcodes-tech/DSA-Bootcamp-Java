@@ -1,7 +1,10 @@
 
 
-Write Java programs for the following:
-Basic Java Programs
+# Write Java programs for the following:
+
+
+## Basic Java Programs
+
 Area Of Circle Java Program
 Area Of Triangle
 Area Of Rectangle Program
