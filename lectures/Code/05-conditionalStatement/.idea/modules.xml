@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/05-conditionsAndLoops.iml" filepath="$PROJECT_DIR$/.idea/05-conditionsAndLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-conditionalStatement.iml" filepath="$PROJECT_DIR$/05-conditionalStatement.iml" />
     </modules>
   </component>
 </project>
