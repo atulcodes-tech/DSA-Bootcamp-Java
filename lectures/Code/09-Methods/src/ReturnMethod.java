@@ -44,6 +44,12 @@ public class ReturnMethod {
 //        return a + b;
 //    }
 
+static int getsum(){
+    int a = 10;
+    int b 20; 
+    return a + b;
+}
+
 
 
 
